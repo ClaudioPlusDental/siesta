@@ -1,5 +1,5 @@
 {
-  "name": "gm314/siesta",
+  "name": "c-lod/siesta",
   "description": "PHP 7 ORM Library",
   "require": {
     "php": ">=7.1.0",
